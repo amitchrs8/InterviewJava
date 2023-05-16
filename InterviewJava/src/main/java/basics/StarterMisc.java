@@ -9,7 +9,7 @@ public class StarterMisc {
 	public static void main(String[] args) {
 		System.out.println("Testing the PRoject ");
 		List<Integer> l =  IntStream.range(0, 10).boxed().collect(Collectors.toList());
-		System.out.println(l);
+		System.out.println(l); 
 	}
 	
 	
