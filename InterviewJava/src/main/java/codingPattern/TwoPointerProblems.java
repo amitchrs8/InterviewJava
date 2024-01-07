@@ -14,6 +14,21 @@ public class TwoPointerProblems {
         return Boolean.TRUE;
     }
 
+//    public static boolean findSumOfThree(int[] nums, int target) {
+//        int leftIndex=0;
+//        int rightIndex=nums.length-1;
+//        for(int i=0;i<)
+//
+//
+//
+//        // Replace this placeholder return statement with your code
+//        return false;
+//    }
+
+
+
+
+
     public static void main(String[] args) {
         System.out.println("Pallindrome Check : "+isPalindrome(""));
     }
